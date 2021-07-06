@@ -1,0 +1,49 @@
+/**
+* @name Chill Vibes
+* @version 1.1
+* @description BetterDiscord theme made with DevilBro's base and Lux#0594's modifications.
+* @author Lux & DevilBro
+*/
+
+@import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/BasicBackground/BasicBackground.css");
+@import url('https://raw.githubusercontent.com/LuxLMAO/LuxHosting/master/mainbase.css');
+@import url('https://fonts.googleapis.com/css2?family=Otomanopee+One');
+
+:root {
+--transparencycolor: #000000ff;
+--transparencyalpha: 0.05;
+--messagetransparency: 0.05;
+--guildchanneltransparency: 0.15;
+--chatinputtransparency: 0;
+--memberlisttransparency: 0;
+--accentcolor: #be4eb433;
+--font: 'Otomanopee One';
+--textshadow: #00000000;
+--background: url('https://wallpapercave.com/wp/wp2729921.gif');
+--backgroundposition: center;
+--backgroundsize: cover;
+--backgroundblur: 0px;
+--version1_0_5: none;
+--popout: url('https://wallpapercave.com/wp/wp2729921.gif');
+--popoutposition: center;
+--popoutsize: cover;
+--popoutblur: 15px;
+--backdrop: #000000d9;
+--backdropposition: center;
+--backdropsize: cover;
+--backdropblur: 0px;
+--rs-small-spacing: 2px;
+--rs-medium-spacing: 3px;
+--rs-large-spacing: 4px;
+--rs-small-width: 2px;
+--rs-medium-width: 3px;
+--rs-large-width: 4px;
+--rs-avatar-shape: 50%;
+--rs-online-color: #43b581;
+--rs-idle-color: #faa61a;
+--rs-dnd-color: #f04747;
+--rs-offline-color: #636b75;
+--rs-streaming-color: #643da7;
+--rs-invisible-color: #747f8d;
+--rs-phone-visible: block;
+}
